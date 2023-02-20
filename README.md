@@ -108,3 +108,10 @@ Wix allows anyone to build a website from scratch without needing any design or 
 
 
 Thank you for setting up Remita Payment Gateway on Wix following this simple steps.
+
+## Useful links
+* Join our Slack Developer/Support channel at http://bit.ly/RemitaDevSlack
+    
+## Support
+- For all other support needs, support@remita.net
+- To contribute to this repo, create an issue on what you intend to fix or update, make a PR and team will look into it and merge.
